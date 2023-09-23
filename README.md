@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/r979a8rvu1k7vko7?svg=true)](https://ci.appveyor.com/project/DariaZolotoreva/selenide-card-delivery-form)
